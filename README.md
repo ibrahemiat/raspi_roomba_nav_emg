@@ -1,8 +1,8 @@
 # raspi_roomba_nav_emg
-# poject 5
-*this project is to auto navigate the irobot roomba with an emergency condition using Ros and state machines in raspberrypi, so after you install ros kinetic follow the instructions below:
+# Project 5
+*this project is to auto navigate the irobot roomba with an emergency condition using ROS and state machines in Raspberry Pi, so after you install ros kinetic follow the instructions below:
 
-First you need to creat a 'worck space' and a ' package', to do so please follow steps (4.1 ,4.2) in the link below:
+First you need to create a 'workspace' and a ' package', to do so please follow steps (4.1 ,4.2) in the link below:
 https://www.intorobotics.com/ros-kinetic-publisher-and-subscriber-in-python/
 
 Then put the two files found in here inside /your_work_space/src/your_pakage_name/src/
@@ -23,7 +23,7 @@ $pip install smach
 
 $pip install pycreate2
 ```
-In a new session type to intiate roscore:
+In a new session type to initiate roscore:
 ```
 $cd /your_work_space
 $source ./devel/setup.bash
