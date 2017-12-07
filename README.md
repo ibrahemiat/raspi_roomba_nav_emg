@@ -1,6 +1,6 @@
 # raspi_roomba_nav_emg
 # Project 5
-*this project is to auto navigate the irobot roomba with an emergency condition using ROS and state machines in Raspberry Pi, so after you install ros kinetic follow the instructions below:
+*This project is to auto navigate the irobot roomba with an emergency condition using ROS and state machines in Raspberry Pi, so after you install ROS kinetic follow the instructions below:
 
 First you need to create a 'workspace' and a ' package', to do so please follow steps (4.1 ,4.2) in the link below:
 https://www.intorobotics.com/ros-kinetic-publisher-and-subscriber-in-python/
