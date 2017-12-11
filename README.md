@@ -49,3 +49,6 @@ $cd /your_work_space/src/your_pakage_name/src/
 $chmod u+x 'file_names.py'
 $rosrun 'your_pakage_name' 'file_name.py'
 ```
+
+Here is the explaination of the code from Group 1.
+[Project Code Explaination](https://www.youtube.com/watch?v=R3NS8ZV17hM&feature=youtu.be)
